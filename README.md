@@ -7,7 +7,7 @@ Proyecto demostrativo de visión artificial en tiempo real con arquitectura híb
 - Comunicación local **C++ ↔ Python** mediante **ZeroMQ**.
 
 ## Objetivo
-Construir un pipeline modular (similar a escenarios industriales) donde el rendimiento y la captura se gestionan en C++,
+Construir un pipeline modular donde el rendimiento y la captura se gestionan en C++,
 mientras que la parte de IA se desacopla en un servicio Python.
 
 ## Estructura del repositorio
