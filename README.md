@@ -18,7 +18,7 @@ mientras que la parte de IA se desacopla en un servicio Python.
 
 ## Requisitos
 - Python 3.10+ (recomendado)
-- CMake + compilador C++ (se añadirá en pasos posteriores)
+- CMake + compilador C++ 
 - Webcam
 
 ## Instalación (Python)
