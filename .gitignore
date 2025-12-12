@@ -1,0 +1,27 @@
+# Python
+py/__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (no versionar)
+data/
+*.jpg
+*.png
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build C++
+cpp/build/
+*.o
+*.obj
+*.exe
+*.out
+
+# Logs
+*.log
